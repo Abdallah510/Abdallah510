@@ -3,18 +3,11 @@
 `Computer Engineer`
 
 <p align="left">
-  <a href="https://mabushelbaia.github.io/" target="_blank">
-    <img alt="Personal Website" title="Personal Website" src="https://custom-icon-badges.demolab.com/badge/-Website-blue?style=for-the-badge&logoColor=white&logo=repo&cache_seconds=3600"/>
-    </a>
-  <a href="https://leetcode.com/mabushelbaia/" target="_blank"> <img alt="LeetCode" title="LeetCode" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white&cache_seconds=3600"/> </a>
   <a href="https://www.linkedin.com/in/abdallah-kokash-394394334/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&cache_seconds=3600"/>
   </a>
-  <a href="https://github.com/mabushelbaia?tab=repositories&sort=stargazers" target="_blank">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mabushelbaia?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&cache_seconds=3600"/>
-  </a>
-  <a href="https://github.com/mabushelbaia?tab=followers" target="_blank">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mabushelbaia?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Abdallah510?tab=followers" target="_blank">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Abdallah510?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
 
