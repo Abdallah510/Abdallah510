@@ -18,14 +18,14 @@
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,django,tailwind,html,css,js,vscode,linux,c,java,latex,vscode,flask,bash">
+    <img src="https://skillicons.dev/icons?i=git,python,linux,c,java,latex,bash,azure,clion,matlab,pycharm,unity,cs">
 </p>
 
 #
 
 <p align="center">
     <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&theme=vue&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=Abdallah510&show_icons=true&include_all_commits=false&theme=vue&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github%22%20media=%22(prefers-color-scheme:%20light),%20(prefers-color-scheme:%20no-preference)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true&include_all_commits=false&theme=vue&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabushelbaia&show_icons=true" />
     </picture>
