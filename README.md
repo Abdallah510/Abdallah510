@@ -20,11 +20,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,linux,c,java,latex,bash,azure,clion,matlab,pycharm,unity,cs"/>
+    <img src="https://skillicons.dev/icons?i=python,c,java,cs,latex,bash,linux,git" />
+    <img src="https://skillicons.dev/icons?i=azure,matlab,pycharm,clion,unity" />
   </a>
 </p>
 
-#
+---
 
 <p align="center">
   <picture>
