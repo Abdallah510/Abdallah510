@@ -1,54 +1,41 @@
 ## 👋 Abdallah Kokash
 
-🎓 `Computer Engineer` | 💡 Passionate about Systems, Networks, and AI  
-📍 Based in Palestine | 🔧 Always building something new  
-
----
-
-### 🌐 Connect with me
+`Computer Engineer`
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdallah-kokash-394394334/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&cache_seconds=1800"/>
   </a>
-  <a href="https://github.com/Abdallah510?tab=followers" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdallah510?style=for-the-badge&label=Follow&logo=github"/>
+  <a href="https://github.com/Abdallh510?tab=followers" target="_blank">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Abdallah510?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/Abdallah510?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Abdallah510?style=for-the-badge&label=Stars&logo=github"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Abdallah510?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star&cache_seconds=3600"/>
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,cs,latex,bash,linux,git,azure,matlab,pycharm,clion,unity" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,java,cs,latex,bash,linux,git" />
+    <img src="https://skillicons.dev/icons?i=azure,matlab,pycharm,clion,unity" />
+  </a>
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah510&show_icons=true&theme=vue&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=60" height="180em"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Abdallah510&show_icons=true&include_all_commits=true&theme=vue&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github&cache_seconds=1800" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Abdallah510&show_icons=true&include_all_commits=true&theme=vue&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github&cache_seconds=1800" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdallah510&show_icons=true&theme=vue&hide_border=true&cache_seconds=1800" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah510&layout=compact&langs_count=10&theme=vue&text_color=ffffff&bg_color=00000000&hide_border=true&cache_seconds=1800" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah510&layout=compact&langs_count=10&theme=vue&bg_color=00000000&hide_border=true&cache_seconds=1800" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah510&layout=compact&langs_count=10&hide_border=true&cache_seconds=1800" />
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah510&layout=compact&langs_count=10&theme=vue&hide_border=true&cache_seconds=60" height="180em"/>
-</p>
-
----
-
-### 🚀 Projects & Interests
-
-- 🔬 Machine Learning & Computer Vision
-- 🌐 Web & Networked Applications (Flask, TCP/UDP, Multithreaded Games)
-- 📦 Optimization Algorithms (GA, Simulated Annealing)
-- 🐧 Linux Systems & Scripting
-
----
-
-> *“Talk is cheap. Show me the code.” – Linus Torvalds*
-
