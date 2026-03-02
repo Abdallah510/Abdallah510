@@ -17,8 +17,9 @@ name: Abdallah Kokash
 title: Computer Engineer
 focus:
   - Hardware
-  - Systems Programming
+  - microcontrollers
   - AI
+  - Programming
 ```
 
 ---
