@@ -66,17 +66,6 @@ focus:
 
 ---
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abdallah510&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
