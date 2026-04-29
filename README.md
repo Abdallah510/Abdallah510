@@ -24,6 +24,8 @@ focus:
 
 ---
 
+---
+
 ## 💻 Languages and Tools
 
 <div align="center">
@@ -60,11 +62,17 @@ focus:
 ![CPU Architecture](https://img.shields.io/badge/CPU%20Architecture-%23CC0000.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![Multi-Core Design](https://img.shields.io/badge/Multi--Core%20Design-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
 
-
-
 </div>
 
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdallah510&show_icons=true&theme=transparent&hide_border=true"/>
+
+</div>
 
 ## 🌐 Connect With Me
 
