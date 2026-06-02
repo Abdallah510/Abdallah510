@@ -66,14 +66,6 @@ focus:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdallah510&show_icons=true&theme=transparent&hide_border=true"/>
-
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
